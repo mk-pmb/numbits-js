@@ -1,0 +1,33 @@
+{ "name": "numbits",
+  "version": "0.1.0",
+  "description": "JavaScript's native bit math operations, exposed as functions with names.",
+  "keywords": [
+    "bit",
+    "bitmask",
+    "bitset",
+    "bitwise",
+    "math"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/numbits-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/numbits-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/numbits-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "numbits.js",
+  "scripts": { "test": "nodejs usage.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": { "equal-pmb": "^0.1.0" },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
